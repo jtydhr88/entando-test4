@@ -1,0 +1,8 @@
+code: apps
+description: Apps
+
+components:
+  widgets:
+      - ui/widgets/dashboard/most-used-apps-card/most-used-apps-card-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

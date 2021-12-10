@@ -1,0 +1,6 @@
+code: dw-most-used-apps-card
+titles:
+  en: Most used Apps
+  it: App piu usate
+group: free
+customUiPath: most-used-apps-card.ftl
